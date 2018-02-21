@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import requests,shutil,random,string,json,os,tempfile
 import unicodedata
-from Api import Poll, Talk, channel
+from api import Poll, Talk, channel
 from random import randint
 from time import time
 from datetime import datetime
