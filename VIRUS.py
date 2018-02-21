@@ -21,6 +21,7 @@ Bots = [mid]
 wait = {
     'autoAdd':True,
     'timeline':True,
+    'message':"thanks thanks",
 }
 def bot(op):
     try:
